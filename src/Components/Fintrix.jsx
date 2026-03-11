@@ -2,6 +2,8 @@ import React from 'react'
 import Container from './Container'
 import alogo from '../assets/a.png'
 import logo from '../assets/Logo.png'
+import halfc from '../assets/Group (2).png'
+import rocket from '../assets/rocket.png'
 
 
 const Fintrix = () => {
@@ -30,16 +32,25 @@ const Fintrix = () => {
             </div>
             </div>
         </div>
-          <div>
-          <div class="flex items-center justify-center absolute top-[-10px] left-[250px]">
-  <div class="relative w-48 h-50 overflow-hidden">
-    
-  <div className="absolute inset-0 rounded-full border-[32px] border-white/5 -translate-x-1/2  "></div>
-  <div className="absolute inset-0 rounded-full border-[32px] border-white/5 -translate-x-1/2 mr-20"></div>
-
-    
-  </div>
-</div>
+          <div className='relative'>
+            <img className='absolute top-[-310px] left-[-220px]' src={halfc} alt="" />
+            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex '>
+               <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
+               <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Proven Expertise</p>
+            </div>
+            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex  mt-20'>
+               <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
+               <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Maximized Visibility</p>
+            </div>
+            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex  mt-40'>
+               <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
+               <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Strategic Growth</p>
+            </div>
+            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex  mt-60'>
+               <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
+               <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Exclusive Partnerships</p>
+            </div>
+            
           </div>
           
         </div>
