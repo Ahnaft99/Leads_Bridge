@@ -4,6 +4,7 @@ import Banner from '../Components/Banner'
 import Market from '../Components/Market'
 import OurStory from '../Components/OurStory'
 import Fintrix from '../Components/Fintrix'
+import Service from '../Components/Service'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
     <Market/>
     <OurStory/>
     <Fintrix/>
+    <Service/>
     </>
   )
 }

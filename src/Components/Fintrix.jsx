@@ -38,7 +38,7 @@ const Fintrix = () => {
                <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
                <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Proven Expertise</p>
             </div>
-            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex  mt-20'>
+            <div className='bg-[#232323] h-15 w-[250px] shadow absolute top-[-230px] left-[185px] flex  mt-20'>
                <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
                <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Maximized Visibility</p>
             </div>
@@ -46,7 +46,7 @@ const Fintrix = () => {
                <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
                <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Strategic Growth</p>
             </div>
-            <div className='bg-[#232323] h-15 w-[220px] shadow absolute top-[-230px] left-[185px] flex  mt-60'>
+            <div className='bg-[#232323] h-15 w-[250px] shadow absolute top-[-230px] left-[185px] flex  mt-60'>
                <img src={rocket} alt="rocket"  className='py-2 px-2'/> 
                <p className='text-white owland-font items-center py-4 px-2 text-[18px] '>Exclusive Partnerships</p>
             </div>
