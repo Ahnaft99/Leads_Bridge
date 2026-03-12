@@ -4,7 +4,7 @@ import a from '../assets/a.png'
 import rocket from '../assets/rocket.png'
 import iconRight from '../assets/iconRight.png'
 import graph from '../assets/graph.png'
-import box from '../assets/box.png'
+import box from '../assets/Box.png'
 import globe from '../assets/globe.png'
 
 const Service = () => {
