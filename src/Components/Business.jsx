@@ -83,7 +83,7 @@ const Business = () => {
             </div>
             </div>
           <div className='w-full flex justify-center'>
-          <button type='submit' className='py-2 px-3 bg-[#FFA500] shadow-black rounded-full oswald-font cursor-pointer text-white my-10   '>Talkto an Expert</button>
+          <button type='submit' className='py-2 px-3 bg-[#FFA500] shadow-black rounded-full oswald-font cursor-pointer text-white my-10   '>Talk to an Expert</button>
           </div>
         </Container>
     </div>

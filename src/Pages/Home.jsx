@@ -7,6 +7,7 @@ import Fintrix from '../Components/Fintrix'
 import Service from '../Components/Service'
 import { Approach } from '../Components/Approach'
 import Business from '../Components/Business'
+import HelpAmazon from '../Components/HelpAmazon'
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
     <Service/>
     <Approach/>
     <Business/>
+    <HelpAmazon/>
     </>
   )
 }
