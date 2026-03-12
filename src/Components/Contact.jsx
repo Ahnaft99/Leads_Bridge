@@ -2,7 +2,7 @@
 import React from 'react'
 import Container from './Container'
 import a from '../assets/a.png'
-import contact from '../assets/contact.png'
+import contact from '../assets/Contact.png'
 import { MdOutlineEmail } from 'react-icons/md'
 
 export const Contact = () => {
