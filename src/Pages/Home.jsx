@@ -9,7 +9,7 @@ import { Approach } from '../Components/Approach'
 import Business from '../Components/Business'
 import HelpAmazon from '../Components/HelpAmazon'
 import { Contact } from '../Components/Contact'
-import Footer from '../Components/Footer'
+
 
 const Home = () => {
   return (
@@ -24,7 +24,7 @@ const Home = () => {
     <Business/>
     <HelpAmazon/>
     <Contact/>
-    <Footer/>
+   
     </>
   )
 }
