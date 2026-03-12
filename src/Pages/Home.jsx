@@ -5,6 +5,8 @@ import Market from '../Components/Market'
 import OurStory from '../Components/OurStory'
 import Fintrix from '../Components/Fintrix'
 import Service from '../Components/Service'
+import { Approach } from '../Components/Approach'
+import Business from '../Components/Business'
 
 const Home = () => {
   return (
@@ -15,6 +17,8 @@ const Home = () => {
     <OurStory/>
     <Fintrix/>
     <Service/>
+    <Approach/>
+    <Business/>
     </>
   )
 }
